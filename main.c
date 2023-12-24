@@ -183,7 +183,7 @@ void main_loop()
     {
         px -= pdx * (MOVE_SPEED*dt);
         py -= pdy * (MOVE_SPEED*dt);
-        if(moving == 0){moving = 1;}
+        if(moving != 1){moving = 1;}
 
         // turn left & right
         if(keystate[0] == 1)
@@ -207,7 +207,7 @@ void main_loop()
     {
         px += pdx * (MOVE_SPEED*dt);
         py += pdy * (MOVE_SPEED*dt);
-        if(moving == 0){moving = 2;}
+        if(moving != 2){moving = 2;}
 
         // turn left & right
         if(keystate[0] == 1)
@@ -228,7 +228,7 @@ void main_loop()
         }
     }
     else if(moving == 1){moving = 0;}
-    else {if(moving != 0){moving = 0;}}
+    else if(moving != 0){moving = 0;}
     // else
     // {
     //     // turn left & right
