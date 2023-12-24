@@ -16,7 +16,7 @@
 	<screenshots>
 		<screenshot>https://raw.githubusercontent.com/mrbid/TuxVsDragon/main/screenshot.png</screenshot>
 	</screenshots>
-	<url type="homepage">https://mrbid.github.io/tuxvsdragon</url>
+	<url type="homepage">https://github.com/mrbid/TuxVsDragon</url>
 	<releases>
 		<release version="1.0" date="2023-12-24" />
 	</releases>
