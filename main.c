@@ -296,11 +296,9 @@ void main_loop()
     // clear buffer
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-    // render scene
+    // render arena
     glUniformMatrix4fv(modelview_id, 1, GL_FALSE, (float*)&view.m[0][0]);
-    glDisable(GL_CULL_FACE);
     esBindRender(0);
-    glEnable(GL_CULL_FACE);
 
     // render snowball pickup
     if(bspawn == 1)
@@ -802,8 +800,6 @@ int main(int argc, char** argv)
 //*************************************
 // configure render options
 //*************************************
-    glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-
     glEnable(GL_CULL_FACE);
     glEnable(GL_DEPTH_TEST);
 
