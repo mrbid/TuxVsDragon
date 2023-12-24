@@ -708,9 +708,6 @@ int main(int argc, char** argv)
     printf("Dragon animated by Emilio O. (ELO2024)\n");
     printf("https://www.youtube.com/@emilio2024x\n");
     printf("----\n");
-    printf("Font is Plastic Love by Azkarizki\n");
-    printf("https://www.fontspace.com/plastic-love-font-f49676\n");
-    printf("----\n");
     printf("Icon by Forest Walter\n");
     printf("https://www.forrestwalter.com/\n");
     printf("----\n");
