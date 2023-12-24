@@ -227,7 +227,6 @@ void main_loop()
             pdy = sin1 + cos1;
         }
     }
-    else if(moving == 1){moving = 0;}
     else if(moving != 0){moving = 0;}
     // else
     // {
