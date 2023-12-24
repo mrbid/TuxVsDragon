@@ -1,4 +1,4 @@
-![Screenshot of the TuxVsDragon game](https://raw.githubusercontent.com/mrbid/TuxVsDragon/main/screenshot.png)]
+![Screenshot of the TuxVsDragon game](https://raw.githubusercontent.com/mrbid/TuxVsDragon/main/screenshot.png)
 
 You have to kill the dragon. It takes 24 snowball hits to kill the dragon. If Tux gets hit just once you have to start all over again! Snowballs will randomly spawn in one of the four grassy patches, Tux can only carry one at a time and cant throw a snowball unless he is standing still. Good luck!
 
