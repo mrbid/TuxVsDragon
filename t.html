@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+    <title>Tux VS Dragon</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="manifest" href='data:application/manifest+json,{"display":"standalone"}' />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" />
+
+    <link href="favicon.png" rel="shortcut icon">
+    <link href="favicon.png" rel="apple-touch-icon">
+    <link href="favicon.png" rel="apple-touch-icon-precomposed">
+    <link href="favicon.png" rel="icon" sizes="192x192">
+    <meta property="og:image" content="favicon.png">
+    <meta property="twitter:image:src" content="favicon.png">
+    <meta name="image" content="favicon.png">
+    <meta itemprop="image" content="favicon.png">
+    <meta name="og:image" content="favicon.png">
+    
+    <meta itemprop="name" content="Tux pitted against a dragon in an epic arena battle.">
+    <meta name="description" content="Tux pitted against a dragon in an epic arena battle.">
+    <meta name="og:description" content="Tux pitted against a dragon in an epic arena battle.">
+
+    <meta name="og:type" content="website">
+    <meta name="og:title" content="mrbid.github.io/tuxvsdragon">
+    <meta name="og:site_name" content="mrbid.github.io/tuxvsdragon">
+    <meta name="og:url" content="https://mrbid.github.io/tuxvsdragon">
+
+    <meta name="theme-color" content="#ffbf00">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <style>
+    canvas { border: 0px none; outline: none; background-color: black; }
+    * { margin:0; padding:0; }
+    html, body { width:100%; height:100%; overflow:hidden; background-color:#000; }
+    </style>
+
+</head>
+<body>
+    <canvas id="canvas" onclick="this.focus();this.requestPointerLock()" oncontextmenu="event.preventDefault()" tabindex=-1></canvas>
+    <script type='text/javascript'>var Module = {canvas: document.getElementById('canvas')};</script>
+    {{{ SCRIPT }}}
+</body>
+</html>

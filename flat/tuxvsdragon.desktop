@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tux VS Dragon
+Comment=Slay the Red Dragon Tux!
+StartupNotify=false
+Exec=tuxvsdragon
+Icon=tuxvsdragon
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;KidsGame;Graphics

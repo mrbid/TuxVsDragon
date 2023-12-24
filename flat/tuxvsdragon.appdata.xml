@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<id type="desktop">tuxvsdragon.desktop</id>
+	<metadata_license>CC-BY-4.0</metadata_license>
+	<project_license>GPL-2.0-only</project_license>
+	<name>Tux VS Dragon</name>
+	<summary>3D FPS approved by Uncle Sam</summary>
+	<description>
+		<p>You have to kill the dragon. It takes 24 snowball hits to kill the dragon. If Tux gets hit just once you have to start all over again! Snowballs will randomly spawn in one of the four grassy patches, Tux can only carry one at a time and cant throw a snowball unless he is standing still. Good luck!</p>
+		<ul>
+			<li>W,A,S,D / Arrow Keys = Move</li>
+			<li>Space Bar = Throw Snowball</li>
+			<li>C = Change camera view</li>
+		</ul>
+	</description>
+	<screenshots>
+		<screenshot>screenshot</screenshot>
+	</screenshots>
+	<url type="homepage">https://mrbid.github.io/tuxvsdragon</url>
+	<releases>
+		<release version="1.0" date="2023-12-24" />
+	</releases>
+	<content_rating type="oars-1.0" />
+</application>
