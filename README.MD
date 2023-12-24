@@ -4,7 +4,7 @@ You have to kill the dragon. It takes 24 snowball hits to kill the dragon. If Tu
 
 * **Flathub:** https://flathub.org/apps/com.voxdsp.TuxVsDragon
 * **Snapcraft:** https://snapcraft.io/tuxvsdragon
-* **Windows:** [TuxVsDragon_windows.zip](https://github.com/mrbid/TuxVsDragon/releases/download/1.1/TuxVsDragon_windows.zip)
+* **Windows:** [TuxVsDragon_windows.zip](https://github.com/mrbid/TuxVsDragon/releases/download/1.1/TuxsDragon_windows.zip)
 
 ## controls
 * W,A,S,D / Arrow Keys = Move
