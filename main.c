@@ -305,7 +305,7 @@ void main_loop()
     {
         if(hamo == 0)
         {
-            const float xm = (px - -34.f);
+            const float xm = (px + 34.f);
             const float ym = (py - 34.f);
             const float sqd = xm*xm + ym*ym;
             if(sqd < 36.f)
@@ -344,7 +344,7 @@ void main_loop()
         if(hamo == 0)
         {
             const float xm = (px - 34.f);
-            const float ym = (py - -34.f);
+            const float ym = (py + 34.f);
             const float sqd = xm*xm + ym*ym;
             if(sqd < 36.f)
             {
@@ -362,8 +362,8 @@ void main_loop()
     {
         if(hamo == 0)
         {
-            const float xm = (px - -34.f);
-            const float ym = (py - -34.f);
+            const float xm = (px + 34.f);
+            const float ym = (py + 34.f);
             const float sqd = xm*xm + ym*ym;
             if(sqd < 36.f)
             {
@@ -507,12 +507,12 @@ void main_loop()
                     cy[1] = cdy[0]*15.f;
                     cx[2] = cdx[0]*15.f;
                     cy[2] = cdy[0]*15.f;
-                    art = ar+d2PI+0.23;
+                    art = ar+d2PI+0.23f;
                     cos1 = cosf(art);
                     sin1 = sinf(art);
                     cdx[1] = cos1 - sin1;
                     cdy[1] = sin1 + cos1;
-                    art = ar+d2PI-0.23;
+                    art = ar+d2PI-0.23f;
                     cos1 = cosf(art);
                     sin1 = sinf(art);
                     cdx[2] = cos1 - sin1;
@@ -560,7 +560,7 @@ void main_loop()
             if(d < 3.f)
             {
                 px = -38.159271f;
-                py = 34.487778f;
+                py =  34.487778f;
                 pr = -4.996970f;
                 float cos1 = cosf(pr);
                 float sin1 = sinf(pr);
@@ -818,7 +818,7 @@ int main(int argc, char** argv)
     t = fTime();
     lfct = t;
     px = -38.159271f;
-    py = 34.487778f;
+    py =  34.487778f;
     pr = -4.996970f;
     float cos1 = cosf(pr);
     float sin1 = sinf(pr);
