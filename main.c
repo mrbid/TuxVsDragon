@@ -271,7 +271,7 @@ void main_loop()
         mIdent(&view);
         mSetPos(&view, (vec){-px, -py, -100.f});
         float rot = 0.8f;
-        if(py < -42.f){rot = 0.453f+(0.347-(0.013f*(-py-42.f)));}
+        if(py < -42.f){rot = 0.453f+(0.347f-(0.013f*(-py-42.f)));}
         mRotY(&view, rot);
     }
 
