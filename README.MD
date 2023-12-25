@@ -12,7 +12,7 @@ You have to kill the dragon. It takes 24 snowball hits to kill the dragon. If Tu
 * C = Change camera view
 
 ## attribution
-* [Tux](https://sketchfab.com/3d-models/tux-157de95fa4014050a969a8361a83d366) made by [Andy Cuccaro](https://andycuccaro.gumroad.com/)
+* [Tux](https://andycuccaro.gumroad.com/l/wfoki) made by [Andy Cuccaro](https://andycuccaro.gumroad.com/)
 * Dragon animated by [Emilio O. (ELO2024)](https://www.youtube.com/@emilio2024x)
 * All assets apart from Tux generated using [LUMA GENIE](https://lumalabs.ai/genie)
 * Icon by [Forest Walter](https://www.forrestwalter.com/)
