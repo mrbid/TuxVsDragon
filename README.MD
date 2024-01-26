@@ -2,7 +2,7 @@
 
 You have to defeat the dragon. It takes 24 snowball hits to defeat the dragon. If Tux gets hit just once you have to start all over again! Snowballs will randomly spawn in one of the four grassy patches, Tux can only carry one at a time and cant throw a snowball unless he is standing still. Good luck!
 
-* **Play Online:** [gamejolt.net](https://gamejolt.net/?token=oSkph595grJnHQ9UxtuEovMpKuQ7dE)
+* **Play Online:** https://pushergames.itch.io/tuxvsdragon
 * **Flathub:** https://flathub.org/apps/com.voxdsp.TuxVsDragon
 * **Snapcraft:** https://snapcraft.io/tuxvsdragon
 * **Windows:** [TuxVsDragon_windows.zip](https://github.com/mrbid/TuxVsDragon/releases/download/1.1/TuxsDragon_windows.zip)
