@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<application>
-	<id type="desktop">tuxvsdragon.desktop</id>
+<component type="desktop-application">
+	<id>com.voxdsp.TuxVsDragon</id>
 	<metadata_license>CC-BY-4.0</metadata_license>
 	<project_license>GPL-2.0-only</project_license>
+	<developer_name>James William Fletcher</developer_name>
+	<launchable type="desktop-id">com.voxdsp.TuxVsDragon.desktop</launchable>
 	<name>Tux VS Dragon</name>
 	<summary>Slay the Red Dragon Tux!</summary>
 	<description>
@@ -14,11 +16,14 @@
 		</ul>
 	</description>
 	<screenshots>
-		<screenshot>https://raw.githubusercontent.com/mrbid/TuxVsDragon/main/screenshot.png</screenshot>
+		<screenshot type="default">
+			<image>https://raw.githubusercontent.com/mrbid/TuxVsDragon/main/screenshot.png</image>
+			<caption>TuxVsDragon Screenshot</caption>
+		</screenshot>
 	</screenshots>
 	<url type="homepage">https://github.com/mrbid/TuxVsDragon</url>
 	<releases>
 		<release version="1.0" date="2023-12-24" />
 	</releases>
 	<content_rating type="oars-1.0" />
-</application>
+</component>
