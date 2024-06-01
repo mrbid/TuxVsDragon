@@ -89,7 +89,7 @@ double mx,my,lx,ly,ww,wh;
 mat projection, view, model, modelview;
 
 // game vars
-#define FAR_DISTANCE 333.f
+#define FAR_DISTANCE 244.f
 uint keystate[4] = {0};
 
 // player vars
