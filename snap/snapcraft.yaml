@@ -1,6 +1,6 @@
 name: tuxvsdragon
 base: core22
-version: '1.0'
+version: '1.1'
 license: GPL-2.0-only
 summary: Slay the Red Dragon Tux!
 description: |
