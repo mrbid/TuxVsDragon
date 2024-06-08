@@ -5,7 +5,7 @@ You have to defeat the dragon. It takes 24 snowball hits to defeat the dragon. I
 * **Play Online:** https://pushergames.itch.io/tuxvsdragon
 * **Flathub:** https://flathub.org/apps/com.voxdsp.TuxVsDragon
 * **Snapcraft:** https://snapcraft.io/tuxvsdragon
-* **Windows:** [TuxVsDragon_windows.zip](https://github.com/mrbid/TuxVsDragon/releases/download/1.1/TuxsDragon_windows.zip)
+* **Windows:** https://github.com/mrbid/TuxVsDragon/releases
 
 ## controls
 * W,A,S,D / Arrow Keys = Move
